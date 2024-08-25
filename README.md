@@ -22,15 +22,6 @@ Welcome to **Cupcake Junction**, the app designed to make ordering customized cu
 - **URLSession**: For handling network requests.
 - **Codable**: For encoding and decoding data.
 
-## Contributing
-
-We welcome contributions to Cupcake Junction! If you'd like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes and push them to your fork.
-4. Open a pull request to the main repository.
-
 ## Contact
 
 For any questions or feedback, please reach out to:
